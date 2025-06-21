@@ -7,7 +7,7 @@ In today’s digital world, security is paramount. As we move more of our person
 
 NordPass is a reliable password manager designed to streamline your online security while ensuring ease of access to your accounts. In this guide, we will walk you through everything you need to know about the NordPass login process, including how to set up an account, sign in, and maximize your security with its features.
 
-.. image:: click-login.gif
+.. image:: login.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
